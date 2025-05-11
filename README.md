@@ -27,11 +27,11 @@ I'm **[`Midlaj KP`](https://www.youtube.com/@Scratch_malayalam)**, a B.Tech Elec
 <be>
 
 ---
+
 <h2 id="knowledge_skills" align=''> 🚀 Knowledge & Skills </h2><br>
 
 <!-- Box container -->
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-
 <!-- Languages -->
 <h3>🧠 Languages</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -45,7 +45,6 @@ I'm **[`Midlaj KP`](https://www.youtube.com/@Scratch_malayalam)**, a B.Tech Elec
   <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
 </div><br>
-
 <!-- Platforms -->
 <h3>💻 Platforms</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -56,7 +55,6 @@ I'm **[`Midlaj KP`](https://www.youtube.com/@Scratch_malayalam)**, a B.Tech Elec
   <img src="https://img.shields.io/badge/Wokwi-FF4081?style=for-the-badge&logo=wokwi&logoColor=white&color=000000" alt="Wokwi" />
   <img src="https://img.shields.io/badge/Proteus-0082C8?style=for-the-badge&logo=proteus&logoColor=white&color=000000" alt="Proteus" />
 </div><br>
-
 <!-- Tech Stack -->
 <h3>🛠️ Tech Stack</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -64,14 +62,12 @@ I'm **[`Midlaj KP`](https://www.youtube.com/@Scratch_malayalam)**, a B.Tech Elec
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
 </div><br>
-
 <!-- Frameworks -->
 <h3>⚙️ Frameworks</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Mbed%20OS-004C8C?style=for-the-badge&logo=arm&logoColor=white&color=000000" alt="Mbed OS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=000000" alt="Node.js" />
 </div><br>
-
 <!-- Communication Protocols -->
 <h3>📡 Communication Protocols</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
