@@ -95,6 +95,6 @@ I'm **[`Midlaj KP`](https://www.youtube.com/@Scratch_malayalam)**, a B.Tech Elec
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[Project 1](https://github.com/)**    | Short Description |
 | **[Project 2](https://github.com/)**    | Short Description |
-| **[Real Time Chatroom](https://github.com/midlaj-kp/chatroom-for-community?tab=readme-ov-file)**    | Short Description | 
+| **[Real Time Chatroom](https://github.com/midlaj-kp/chatroom-for-community)**    | Short Description | 
 
 ---
