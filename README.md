@@ -93,7 +93,7 @@ I'm **[`Midlaj KP`](https://www.youtube.com/@Scratch_malayalam)**, a B.Tech Elec
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
+| **[AFBS](https://github.com/midlaj-kp/AFBS)**    | The Automatic Fuel Blending System,designed to reduce automotive emissions and improve fuel efficiency.  |
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Real Time Chatroom](https://github.com/midlaj-kp/chatroom-for-community)**    | A real-time chatroom built with Node.js, Socket.io, and Express featuring live messaging and file sharing capabilities. | 
 
