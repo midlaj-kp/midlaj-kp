@@ -32,7 +32,6 @@ I'm **[`Midlaj KP`](https://www.youtube.com/@Scratch_malayalam)**, a B.Tech Elec
 
 <!-- Box container -->
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-<!-- Languages -->
 <h3>🧠 Languages</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
@@ -44,8 +43,7 @@ I'm **[`Midlaj KP`](https://www.youtube.com/@Scratch_malayalam)**, a B.Tech Elec
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
-</div><br>
-<!-- Platforms -->
+</div>
 <h3>💻 Platforms</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white&color=000000" alt="Arduino IDE" />
@@ -54,21 +52,18 @@ I'm **[`Midlaj KP`](https://www.youtube.com/@Scratch_malayalam)**, a B.Tech Elec
   <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&color=000000" alt="STM32CubeIDE" />
   <img src="https://img.shields.io/badge/Wokwi-FF4081?style=for-the-badge&logo=wokwi&logoColor=white&color=000000" alt="Wokwi" />
   <img src="https://img.shields.io/badge/Proteus-0082C8?style=for-the-badge&logo=proteus&logoColor=white&color=000000" alt="Proteus" />
-</div><br>
-<!-- Tech Stack -->
+</div>
 <h3>🛠️ Tech Stack</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
-</div><br>
-<!-- Frameworks -->
+</div>
 <h3>⚙️ Frameworks</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Mbed%20OS-004C8C?style=for-the-badge&logo=arm&logoColor=white&color=000000" alt="Mbed OS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=000000" alt="Node.js" />
-</div><br>
-<!-- Communication Protocols -->
+</div>
 <h3>📡 Communication Protocols</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/I2C-003399?style=for-the-badge&logo=proxmox&color=000000" alt="I2C" />
@@ -76,7 +71,7 @@ I'm **[`Midlaj KP`](https://www.youtube.com/@Scratch_malayalam)**, a B.Tech Elec
   <img src="https://img.shields.io/badge/UART-004880?style=for-the-badge&logo=proxmox&color=000000" alt="UART" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white&color=000000" alt="MQTT" />
   <img src="https://img.shields.io/badge/HTTP-808080?style=for-the-badge&logo=http&logoColor=white&color=000000" alt="HTTP" />
-</div><br>
+</div>
 
 </div>
 
