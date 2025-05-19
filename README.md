@@ -77,16 +77,18 @@ I'm **[`Midlaj KP`](https://www.youtube.com/@Scratch_malayalam)**, a B.Tech Elec
 
 
 ---
-<h2 id="Certifications" align=''> Certifications </h2>
+<h2 id="Certifications" align="center">Certifications</h2>
 
-<div>
-[![Arm Certification](https://img.shields.io/badge/Certificate-ARM-blue?style=for-the-badge&logo=arm)](https://github.com/midlaj-kp/My_Certificates/blob/main/Embedded%20Systems%20Essentials%20with%20Arm.png?raw=true)
+<div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; align-items: center;">
+  <a href="https://github.com/midlaj-kp/My_Certificates/blob/main/Embedded%20Systems%20Essentials%20with%20Arm.png?raw=true" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Certificate-ARM-blue?style=for-the-badge&logo=arm" alt="Arm Certification" />
+  </a>
 
+  <img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&color=000000" alt="CompTIA Security+ Certification" />
 
-<img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&color=000000" alt="CompTIA Security+ Certification" />
-<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
-
+  <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
 </div>
+
 
 ---
 
