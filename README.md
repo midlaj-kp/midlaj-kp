@@ -80,7 +80,7 @@ I'm **[`Midlaj KP`](https://www.youtube.com/@Scratch_malayalam)**, a B.Tech Elec
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-<img src="https://github.com/midlaj-kp/My_Certificates/blob/main/Embedded%20Systems%20Essentials%20with%20Arm.png" alt="Arm Certification" />
+<img src="https://github.com/midlaj-kp/My_Certificates/blob/main/Embedded%20Systems%20Essentials%20with%20Arm.pdf" alt="Arm Certification" />
 <img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&color=000000" alt="CompTIA Security+ Certification" />
 <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
 
