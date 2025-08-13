@@ -96,7 +96,7 @@ I'm **[`Midlaj KP`](https://www.youtube.com/@Scratch_malayalam)**, a B.Tech Elec
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[AFBS](https://github.com/midlaj-kp/AFBS)**    | The Automatic Fuel Blending System,designed to reduce automotive emissions and improve fuel efficiency.  |
-| **[Project 2](https://github.com/)**    | Short Description |
+| **[/Smart-Attendance_using_BLE](https://github.com/midlaj-kp/Smart-Attendance_using_BLE)**    |Smart Attendance System using ESP32 & Encrypted BLE – An IoT-based classroom attendance solution that detects registered student devices via encrypted BLE, marks attendance on a web portal, and verifies presence using camera-based head count for enhanced accuracy and security. |
 | **[Real Time Chatroom](https://github.com/midlaj-kp/chatroom-for-community)**    | A real-time chatroom built with Node.js, Socket.io, and Express featuring live messaging and file sharing capabilities. | 
 
 ---
