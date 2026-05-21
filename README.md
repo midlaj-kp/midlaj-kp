@@ -99,5 +99,6 @@ I'm **[`Midlaj KP`](https://www.youtube.com/@Scratch_malayalam)**, a B.Tech Elec
 | **[/Smart-Attendance_using_BLE](https://github.com/midlaj-kp/Smart-Attendance_using_BLE)**    |Smart Attendance System using ESP32 & Encrypted BLE – An IoT-based classroom attendance solution that detects registered student devices via encrypted BLE, marks attendance on a web portal, and verifies presence using camera-based head count for enhanced accuracy and security. |
 | **[Real Time Chatroom](https://github.com/midlaj-kp/chatroom-for-community)**    | A real-time chatroom built with Node.js, Socket.io, and Express featuring live messaging and file sharing capabilities. | 
 | **[AI Driven Robotic Arm Optimization in Conveyor Belt](https://github.com/midlaj-kp/AI-Driven-Robotic-Arm-Optimization-in-Conveyor-Belt)**   | full-stack quality control and sortation system. By integrating computer vision, a real-time decision engine, and a web dashboard, it identifies, tracks, and mechanically sorts items on a moving conveyor. |
+| **[PresentAR](https://github.com/midlaj-kp/PresentAR)**   | PresentAR is a hardware-to-web presentation system that uses an M5Stack smart remote to control and manipulate 3D models on a real-time web dashboard. |
 
 ---
